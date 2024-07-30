@@ -281,6 +281,12 @@
 	.home_banner_area .banner_inner .banner_content h5 {
 		margin-top: 0px;
 	}
+
+	.home_banner_area .banner_inner .banner_btn {
+		margin-bottom: 10px;
+		width: 50%;
+		
+	}
 	/* End Home Banner Area css
 	============================================================================================ */
 	.p_120 {
